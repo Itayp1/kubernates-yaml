@@ -1,0 +1,24 @@
+{
+  "name": "kubernates-yaml",
+  "version": "1.1.22",
+  "description": "",
+  "main": "./lib/index.js",
+  "funding": "https://github.com/Itayp1/kubernates-yaml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kubernates-yaml": "./bin/kubernates-yaml.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sd"
+  },
+  "author": "peretz-itay",
+  "license": "ISC",
+  "preferGlobal": true,
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "yargs": "^16.2.0"
+  }
+}
